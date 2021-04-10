@@ -4,7 +4,7 @@ I'm a Back-end developer and lover of python 🐍
 
 I am studying at FATEC -> computer networks, ends in 2023. I like challends and solving them, learning more every day.
 
-### " You're The Average Of The Five People You Spend The Most Time With"
+### " You're the average of the five people you spend the most time with"
 
 <a href="https://www.linkedin.com/in/tic-gabrielleão/">
  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
