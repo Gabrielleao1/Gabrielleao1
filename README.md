@@ -1,16 +1,14 @@
-### Hi there 👋
+# Gabriel Leão
 
-<!--
-**Gabrielleao1/Gabrielleao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Back-end developer and lover of python 🐍
 
-Here are some ideas to get you started:
+I am studying at FATEC -> computer networks, ends in 2023. I like challends and solving them, learning more every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### " You're The Average Of The Five People You Spend The Most Time With"
+
+<a href="https://www.linkedin.com/in/tic-gabrielleão/">
+ <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a><a href="https://www.instagram.com/gabrielleao/">
+ <img src="https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white" />
+</a><a><img src="https://img.shields.io/badge/-gabriel.lindorio21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
