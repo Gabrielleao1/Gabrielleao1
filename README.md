@@ -2,7 +2,7 @@
 
 I'm a Back-end developer and lover of python 🐍
 
-I am studying at FATEC -> computer networks, ends in 2023. I like challends and solving them, learning more every day.
+I am studying at UNIP -> ADS, ends in 2023. I like challends and solving them, learning more every day.
 
 ### " You're the average of the five people you spend the most time with"
 
