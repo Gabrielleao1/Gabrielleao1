@@ -1,6 +1,6 @@
 # Gabriel Leão
 
-I'm a Back-end developer and lover of python 🐍
+I'm a Front-end developer and lover of JavaScript 🐍
 
 I am studying at UNIP -> ADS, ends in 2023. I like challends and solving them, learning more every day.
 
