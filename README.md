@@ -2,7 +2,7 @@
 
 I'm a Front-end developer and lover of JavaScript 🐍
 
-I am studying at UNIP -> ADS, ends in 2023. I like challends and solving them, learning more every day.
+I am studying at Descomplica -> ADS, ends in 2025. I like challends and solving them, learning more every day.
 
 ### " You're the average of the five people you spend the most time with"
 
