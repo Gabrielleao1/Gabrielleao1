@@ -1,6 +1,6 @@
 # Gabriel Leão
 
-I'm a Front-end developer and lover of JavaScript 🐍
+I'm a Front-end developer and lover of JavaScript.
 
 I am studying at Descomplica -> ADS, ends in 2025. I like challends and solving them, learning more every day.
 
